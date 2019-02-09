@@ -10,5 +10,5 @@ spring:
 
 outserver.api:
   domain: "https://subdomain.corp.com"
-  port: 10081
+  port: 8090
   endpoint: "/api/concept1"
