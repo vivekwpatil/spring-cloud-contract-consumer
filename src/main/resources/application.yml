@@ -9,6 +9,6 @@ spring:
   profiles: production
 
 outserver.api:
-  domain: "https://subdomain.corp.com"
-  port: 8090
-  endpoint: "/api/concept1"
+  domain: "https://api.run.pivotal.io"
+  port:
+  endpoint: "/v2/info"
